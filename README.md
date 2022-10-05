@@ -2,7 +2,7 @@ Data for paper found [here](https://drive.google.com/file/d/1WmLNqmS8_-Tk7MeiHUQ
 
 Files:
 
-model.py: contains convolutional autoencoder model
-train.py: trains convolutional autoencoder using 5-fold cross-validation for a given latent dimension set in file
-gpr_cae.py: makes predictions at test design variables for given latent dimension using CAE
-gpr_pod.py: makes predictions at test design variables for given latent dimension using POD
+model.py: contains convolutional autoencoder model  
+train.py: trains convolutional autoencoder using 5-fold cross-validation for a given latent dimension set in file  
+gpr_cae.py: makes predictions at test design variables for given latent dimension using CAE  
+gpr_pod.py: makes predictions at test design variables for given latent dimension using POD  
